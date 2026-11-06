@@ -1,0 +1,8 @@
+{
+  "name": "Remix हिसाब किताब (Hisab Kitab)",
+  "description": "दैनिक खर्च, आय और उधार-जमा का आसान डिजिटल हिसाब-किताब एवं खाता बही।",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
